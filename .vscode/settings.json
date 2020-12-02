@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/k8suser/Project/f1/.venv/bin/python3",
+    "python.formatting.provider": "yapf"
+}
